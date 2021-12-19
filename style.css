@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header {
+    background-color: coral;
+    display:flex;
+    justify-content: space-around;
+}
+.grid {
+    display: flex;
+    justify-content:space-evenly;
+    background-color: darkgreen;
+    justify-content:safe;
+    font-weight: 700;
+    
+}
+.footer {
+    display:flex;
+    background-color: darkorange;
+     justify-content:space-around;
+     font-weight: 700;
+}
